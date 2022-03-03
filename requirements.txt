@@ -1,0 +1,17 @@
+vosk==0.3.21
+pandas==1.1.5
+numpy==1.19.5
+tqdm=4.57.0
+nltk==3.5
+inflect==5.2.0
+Unidecode==1.2.0
+librosa=0.8.0
+numba==0.52.0
+SoundFile==0.10.3.post1
+torch==1.7.1+cu110
+torchtext==0.8.1
+jiwer=2.2.0
+matplotlib=3.3.4
+spacy==3.0.5
+en-core-web-sm==3.0.0
+punctuator==0.9.6

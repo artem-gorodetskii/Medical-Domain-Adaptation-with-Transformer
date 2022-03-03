@@ -1,0 +1,1 @@
+Pretrained model was trained during 1580k iterations. 

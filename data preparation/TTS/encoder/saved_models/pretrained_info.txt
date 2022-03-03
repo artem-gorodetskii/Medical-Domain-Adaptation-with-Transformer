@@ -1,0 +1,1 @@
+Pretrained model was trained during 1500001 iterations. The datasets contains voxceleb1, voxceleb2, librispeech_train_500 and common voice dataset . number of speakers about 39000 (overfitting was not observed).
