@@ -29,6 +29,7 @@ See the medical_domain_adaptation_training notebook for detail.
 ## Evaluation and Metrics
 - Before using the Transformer model: WER = 20.52 %, BLEU = 70.4 %.
 - After using the Transformer model: WER = 10.66 %, BLEU = 81.81 %.
+
 See the medical_domain_adaptation_inference notebook for detail.
 
 ## Conclusions
